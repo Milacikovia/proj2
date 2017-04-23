@@ -2,7 +2,6 @@ Generovat RSA-2048
 Skusit spojit spolocne funkcie do jednej kniznice
 Zoptimalizovat kod
 Ujednat uniformitu
-Vypisat subor
 Okomentovat kody !!!
 
 Co ak si vygenerujem novy par RSA klucov, stratim tym doveru v Boba?
